@@ -19,6 +19,8 @@
 3.代码结构方面进行优化。
 
 
+![image](https://user-images.githubusercontent.com/16487020/126505408-a32aed43-a6a2-4570-ba94-440511d31f13.png)
+
 
 ## 交流 && 疑问
 如果有任何错误或不懂的地方欢迎给我提问 https://github.com/githubw2015/crawler-boss
